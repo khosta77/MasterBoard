@@ -1,0 +1,8 @@
+*-backups
+*.bak
+*.tmp
+*.cache
+*.kicad_dbl
+*.kicad_wks
+
+.DS_Store
