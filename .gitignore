@@ -4,5 +4,6 @@
 *.cache
 *.kicad_dbl
 *.kicad_wks
+fp-info-cache
 
 .DS_Store
