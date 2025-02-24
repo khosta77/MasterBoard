@@ -612,6 +612,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 46.99) (xy 58.42 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2eb7035-1b20-4a38-80e7-6bb0221d8407")
+	)
+	(wire
+		(pts
 			(xy 109.22 43.18) (xy 127 43.18)
 		)
 		(stroke
@@ -679,6 +689,16 @@
 			(type default)
 		)
 		(uuid "b0fb3bc9-5294-4b88-b83a-8967036b6762")
+	)
+	(wire
+		(pts
+			(xy 40.64 34.29) (xy 58.42 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4b69a43-ad29-43ec-bace-9fc83c9f8b06")
 	)
 	(wire
 		(pts
@@ -762,6 +782,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 52.07) (xy 58.42 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2b73052-9201-4d66-a394-909610753e83")
+	)
+	(wire
+		(pts
 			(xy 109.22 55.88) (xy 127 55.88)
 		)
 		(stroke
@@ -799,6 +829,16 @@
 			(type default)
 		)
 		(uuid "d267dbcc-22e3-4632-bc6b-76614d9f0413")
+	)
+	(wire
+		(pts
+			(xy 40.64 49.53) (xy 58.42 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "daa473d8-304e-4118-87e1-d8884dde2ae2")
 	)
 	(wire
 		(pts
@@ -849,6 +889,26 @@
 			(type default)
 		)
 		(uuid "edd58564-2ed1-43f9-aac1-9e1f76d91228")
+	)
+	(wire
+		(pts
+			(xy 40.64 54.61) (xy 58.42 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f430cce6-747f-44cc-9c0c-e0c6f90efae4")
+	)
+	(wire
+		(pts
+			(xy 40.64 31.75) (xy 58.42 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f483533c-8933-4e17-bb1c-9205c8fdb5da")
 	)
 	(wire
 		(pts
@@ -1734,6 +1794,69 @@
 		)
 	)
 	(sheet
+		(at 25.4 29.21)
+		(size 15.24 11.176)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "5af52d5a-2524-4f0f-872e-80f344338bdc")
+		(property "Sheetname" "USART_module"
+			(at 25.4 28.4984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/USART_module.kicad_sch"
+			(at 25.4 40.9706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "RX" input
+			(at 40.64 34.29 0)
+			(uuid "7904f643-2e20-4d97-8c38-e17cd7b1f2a6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "TX" output
+			(at 40.64 31.75 0)
+			(uuid "87af8934-079b-4389-ac7c-4700df2f388d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "MasterBoard"
+				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 45.72 172.72)
 		(size 38.1 13.97)
 		(exclude_from_sim no)
@@ -1772,6 +1895,89 @@
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 25.4 44.45)
+		(size 15.24 13.97)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 255 255 194 1.0000)
+		)
+		(uuid "8aa098bc-8147-495f-9e0e-6764d1cf376d")
+		(property "Sheetname" "SD-card"
+			(at 25.4 43.7384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "schematics/SPI_micro_SD.kicad_sch"
+			(at 25.4 59.0046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "SPI_CS" bidirectional
+			(at 40.64 46.99 0)
+			(uuid "c1bf5fb9-7d42-4bd4-af73-4d6cddc33485")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MISO" bidirectional
+			(at 40.64 49.53 0)
+			(uuid "4a339422-e11f-43d3-9904-7b17752624ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_MOSI" bidirectional
+			(at 40.64 52.07 0)
+			(uuid "d31e7bf7-8273-4ba7-a4a9-fc693796a6dc")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SPI_SCK" bidirectional
+			(at 40.64 54.61 0)
+			(uuid "fec52bfc-bcd6-4c95-8f9f-a5ef68ffbd96")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "MasterBoard"
+				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa"
+					(page "6")
 				)
 			)
 		)
