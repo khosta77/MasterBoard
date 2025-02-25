@@ -7,6 +7,9 @@
 	(title_block
 		(date "2025-02-23")
 		(comment 1 "RS232")
+		(comment 2 "Филимонов С.В.")
+		(comment 3 "Семеренко Д.А.")
+		(comment 4 "Тищенко Л.А.")
 	)
 	(lib_symbols
 		(symbol "Connector:USB_B"
