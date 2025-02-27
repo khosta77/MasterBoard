@@ -672,6 +672,10 @@
     [
       "0020857d-77ad-4b1f-afb2-65480b85c325",
       "EndStop6"
+    ],
+    [
+      "79d602db-a6dd-43c7-a573-120ff5d57928",
+      "W5500_module"
     ]
   ],
   "text_variables": {}
