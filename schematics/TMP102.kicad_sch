@@ -6,6 +6,7 @@
 	(paper "A4")
 	(title_block
 		(date "2025-02-25")
+		(company "Филимонов и К")
 		(comment 1 "TMP102")
 		(comment 2 "Филимонов С.В.")
 		(comment 3 "Семеренко Д.А.")

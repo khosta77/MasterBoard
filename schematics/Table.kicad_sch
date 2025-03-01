@@ -6,6 +6,7 @@
 	(paper "A4")
 	(title_block
 		(date "2025-02-25")
+		(company "Филимонов и К")
 		(comment 1 "Термо стол")
 		(comment 2 "Филимонов С.В.")
 		(comment 3 "Семеренко Д.А.")
@@ -2295,7 +2296,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "~"
 			(at 210.82 87.9474 90)
 			(effects
 				(font

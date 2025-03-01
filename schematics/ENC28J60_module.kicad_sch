@@ -7,6 +7,7 @@
 	(title_block
 		(date "2025-02-28")
 		(rev "ENC28J60 модуль")
+		(company "Филимонов и К")
 		(comment 2 "Филимонов С.В.")
 		(comment 3 "Семеренко Д.А.")
 		(comment 4 "Тищенко Л.А.")
@@ -4352,7 +4353,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 60.198 90)
 			(effects
 				(font
@@ -4486,7 +4487,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 251.46 75.438 90)
 			(effects
 				(font
@@ -4556,7 +4557,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 188.722 63.5 90)
 			(effects
 				(font
@@ -4623,7 +4624,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 62.738 90)
 			(effects
 				(font
@@ -4891,7 +4892,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 67.818 90)
 			(effects
 				(font
@@ -5498,7 +5499,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 188.722 73.66 90)
 			(effects
 				(font
@@ -5636,7 +5637,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1206_3216Metric"
 			(at 199.39 52.07 0)
 			(effects
 				(font
@@ -5773,7 +5774,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 188.722 96.52 90)
 			(effects
 				(font
@@ -6042,7 +6043,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 251.46 85.598 90)
 			(effects
 				(font
@@ -6242,7 +6243,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 55.118 90)
 			(effects
 				(font
@@ -6617,7 +6618,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 188.722 86.36 90)
 			(effects
 				(font
@@ -6833,7 +6834,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 72.898 90)
 			(effects
 				(font
@@ -6970,7 +6971,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 145.542 99.06 90)
 			(effects
 				(font
@@ -7241,7 +7242,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 87.63 65.278 90)
 			(effects
 				(font
@@ -7513,7 +7514,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Crystal:Crystal_HC49-U_Vertical"
+		(property "Footprint" "Crystal:Crystal_HC49-4H_Vertical"
 			(at 67.31 132.08 0)
 			(effects
 				(font

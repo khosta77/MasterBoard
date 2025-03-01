@@ -6,6 +6,7 @@
 	(paper "A4")
 	(title_block
 		(date "2025-02-23")
+		(company "Филимонов и К")
 		(comment 1 "RS232")
 		(comment 2 "Филимонов С.В.")
 		(comment 3 "Семеренко Д.А.")
@@ -2851,7 +2852,7 @@
 				)
 			)
 		)
-		(property "Value" "RX_YELLOW"
+		(property "Value" "~"
 			(at 203.2 102.87 0)
 			(effects
 				(font
@@ -2860,7 +2861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 194.31 104.14 0)
 			(effects
 				(font
@@ -3000,7 +3001,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 207.01 105.918 90)
 			(effects
 				(font
@@ -3134,7 +3135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "39887f2b-24f6-4962-a0e8-d7d580192cd2")
-		(property "Reference" "J3"
+		(property "Reference" "USB1"
 			(at 104.14 71.12 0)
 			(effects
 				(font
@@ -3195,7 +3196,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/5af52d5a-2524-4f0f-872e-80f344338bdc"
-					(reference "J3")
+					(reference "USB1")
 					(unit 1)
 				)
 			)
@@ -3558,7 +3559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 207.01 103.378 90)
 			(effects
 				(font
@@ -3897,7 +3898,7 @@
 				)
 			)
 		)
-		(property "Value" "TX_YELLOW"
+		(property "Value" "~"
 			(at 203.2 100.33 0)
 			(effects
 				(font
@@ -3906,7 +3907,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 194.31 101.6 0)
 			(effects
 				(font
@@ -4046,7 +4047,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 207.01 110.998 90)
 			(effects
 				(font
@@ -4256,7 +4257,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 191.77 77.978 90)
 			(effects
 				(font
@@ -4472,7 +4473,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 191.77 80.518 90)
 			(effects
 				(font
