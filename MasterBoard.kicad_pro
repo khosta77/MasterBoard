@@ -519,7 +519,7 @@
           "show": true
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "Value",
           "name": "Value",
           "show": true
@@ -528,7 +528,7 @@
           "group_by": false,
           "label": "Datasheet",
           "name": "Datasheet",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,
@@ -540,21 +540,33 @@
           "group_by": false,
           "label": "Qty",
           "name": "${QUANTITY}",
-          "show": true
+          "show": false
         },
         {
-          "group_by": true,
+          "group_by": false,
           "label": "DNP",
           "name": "${DNP}",
-          "show": true
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Описание",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": false,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
-      "sort_field": "Обозначение"
+      "sort_field": "Reference"
     },
     "connection_grid_size": 50.0,
     "drawing": {
@@ -611,7 +623,7 @@
     ],
     [
       "59718995-9a4b-4440-9220-f1fb60c46541",
-      "STM32F407VG"
+      "STM32F405RG"
     ],
     [
       "5af52d5a-2524-4f0f-872e-80f344338bdc",
@@ -628,6 +640,18 @@
     [
       "e30e4f09-c240-4d68-a862-af3d4cc81fa3",
       "Table"
+    ],
+    [
+      "79d602db-a6dd-43c7-a573-120ff5d57928",
+      "W5500_module"
+    ],
+    [
+      "e2c43f59-ec31-4543-bc25-8546549cf402",
+      "ENC28J60_module"
+    ],
+    [
+      "71095070-8281-4de7-807c-d3e17339dc65",
+      "W25Q32_module"
     ],
     [
       "dcb52573-2c98-48c8-b786-d132966e5cf0",
@@ -672,10 +696,6 @@
     [
       "0020857d-77ad-4b1f-afb2-65480b85c325",
       "EndStop6"
-    ],
-    [
-      "79d602db-a6dd-43c7-a573-120ff5d57928",
-      "W5500_module"
     ]
   ],
   "text_variables": {}
