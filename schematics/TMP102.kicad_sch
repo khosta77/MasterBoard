@@ -1283,20 +1283,20 @@
 	)
 	(text "Address: 1001000x"
 		(exclude_from_sim no)
-		(at 107.95 105.918 0)
+		(at 102.108 108.204 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 2.54 2.54)
 			)
 		)
 		(uuid "0e12721d-bc49-4af6-b935-3c1b226df96f")
 	)
 	(text "Что-то из документации не понятно че там происходит.\nОдни пишут, что на выходе тахометра +7V, другие что 3.3V\nили вообще +12V. Одно понятно. Обычная понижайка справится"
 		(exclude_from_sim no)
-		(at 169.672 117.602 0)
+		(at 154.432 134.62 0)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 2.54 2.54)
 			)
 			(justify left)
 		)
@@ -1696,10 +1696,10 @@
 		(lib_id "Device:R")
 		(at 107.95 85.09 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "39663854-4a25-4111-af4d-69dbfdb5fd55")
 		(property "Reference" "R15"
@@ -1766,12 +1766,12 @@
 		(lib_id "Sensor_Temperature:TMP102xxDRL")
 		(at 135.89 101.6 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(uuid "452f5379-29d0-4b9f-9b09-ef29d013ba66")
-		(property "Reference" "U5"
+		(property "Reference" "U4"
 			(at 144.78 89.154 0)
 			(effects
 				(font
@@ -1837,7 +1837,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/c42b4888-b871-46c0-9d59-6fc9dc24c285"
-					(reference "U5")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -1853,7 +1853,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c91fbc8-3dca-4977-a2f5-0a1ff48c6ae6")
-		(property "Reference" "R25"
+		(property "Reference" "R0401"
 			(at 199.39 104.1399 0)
 			(effects
 				(font
@@ -1907,7 +1907,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/c42b4888-b871-46c0-9d59-6fc9dc24c285"
-					(reference "R25")
+					(reference "R0401")
 					(unit 1)
 				)
 			)
@@ -1922,8 +1922,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4efd6917-12c5-42dd-a4c9-ebc945d4fd1a")
-		(property "Reference" "J9"
-			(at 202.438 70.358 90)
+		(property "Reference" "FAN0"
+			(at 199.39 72.136 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1938,6 +1938,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector:FanPinHeader_1x04_P2.54mm_Vertical"
@@ -1982,7 +1983,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/c42b4888-b871-46c0-9d59-6fc9dc24c285"
-					(reference "J9")
+					(reference "FAN0")
 					(unit 1)
 				)
 			)
@@ -1998,7 +1999,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f3d6108-b5b8-41ef-9cf7-253ec4c9fb3a")
-		(property "Reference" "R24"
+		(property "Reference" "R0400"
 			(at 199.39 93.9799 0)
 			(effects
 				(font
@@ -2052,7 +2053,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/c42b4888-b871-46c0-9d59-6fc9dc24c285"
-					(reference "R24")
+					(reference "R0400")
 					(unit 1)
 				)
 			)
@@ -2062,10 +2063,10 @@
 		(lib_id "Device:C")
 		(at 127 85.09 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "6484727d-f891-40c8-b804-77e9196b78a0")
 		(property "Reference" "C26"
@@ -2400,10 +2401,10 @@
 		(lib_id "Device:R")
 		(at 118.11 85.09 0)
 		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
+		(exclude_from_sim yes)
+		(in_bom no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ac17b405-60fe-45f0-afb1-8af238470bc3")
 		(property "Reference" "R16"

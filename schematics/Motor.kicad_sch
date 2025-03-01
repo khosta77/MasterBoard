@@ -3047,7 +3047,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 168.6052 80.01 0)
 			(effects
 				(font
@@ -3498,15 +3498,15 @@
 	(symbol
 		(lib_id "Device:C_Polarized")
 		(at 173.99 60.96 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a808a8b9-27f0-4f64-91fb-5d147ed87cba")
 		(property "Reference" "C?"
-			(at 177.8 58.8009 0)
+			(at 181.102 58.674 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3515,7 +3515,7 @@
 			)
 		)
 		(property "Value" "100u"
-			(at 177.8 61.3409 0)
+			(at 182.88 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3524,7 +3524,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x7.7"
-			(at 174.9552 64.77 0)
+			(at 173.0248 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)

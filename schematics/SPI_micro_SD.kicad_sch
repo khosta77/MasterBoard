@@ -918,7 +918,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 102.87) (xy 146.05 102.87)
+			(xy 135.89 102.87) (xy 146.05 102.87)
 		)
 		(stroke
 			(width 0)
@@ -938,7 +938,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 100.33) (xy 146.05 100.33)
+			(xy 135.89 100.33) (xy 146.05 100.33)
 		)
 		(stroke
 			(width 0)
@@ -968,7 +968,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 107.95) (xy 146.05 107.95)
+			(xy 135.89 107.95) (xy 146.05 107.95)
 		)
 		(stroke
 			(width 0)
@@ -988,7 +988,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 113.03) (xy 146.05 113.03)
+			(xy 135.89 113.03) (xy 146.05 113.03)
 		)
 		(stroke
 			(width 0)
@@ -1038,7 +1038,7 @@
 	)
 	(hierarchical_label "SPI_CS"
 		(shape bidirectional)
-		(at 140.97 100.33 180)
+		(at 135.89 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1051,7 +1051,7 @@
 	)
 	(hierarchical_label "SPI_MOSI"
 		(shape bidirectional)
-		(at 140.97 102.87 180)
+		(at 135.89 102.87 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1064,7 +1064,7 @@
 	)
 	(hierarchical_label "SPI_SCK"
 		(shape bidirectional)
-		(at 140.97 107.95 180)
+		(at 135.89 107.95 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1077,7 +1077,7 @@
 	)
 	(hierarchical_label "SPI_MISO"
 		(shape bidirectional)
-		(at 140.97 113.03 180)
+		(at 135.89 113.03 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1164,8 +1164,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "14e595b2-2550-4bc4-91b5-f75c510ce9da")
-		(property "Reference" "R206"
-			(at 143.764 101.6 90)
+		(property "Reference" "R0301"
+			(at 142.748 101.6 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1216,7 +1216,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/8aa098bc-8147-495f-9e0e-6764d1cf376d"
-					(reference "R206")
+					(reference "R0301")
 					(unit 1)
 				)
 			)
@@ -1231,8 +1231,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1612d676-5717-45e9-994e-a57a39b72aba")
-		(property "Reference" "R207"
-			(at 143.764 106.68 90)
+		(property "Reference" "R0302"
+			(at 142.748 106.68 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1283,7 +1283,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/8aa098bc-8147-495f-9e0e-6764d1cf376d"
-					(reference "R207")
+					(reference "R0302")
 					(unit 1)
 				)
 			)
@@ -1298,8 +1298,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1ccd794b-918d-45ed-bb59-f16f5ab1a1e4")
-		(property "Reference" "R205"
-			(at 143.764 99.06 90)
+		(property "Reference" "R0300"
+			(at 142.748 99.06 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1350,7 +1350,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/8aa098bc-8147-495f-9e0e-6764d1cf376d"
-					(reference "R205")
+					(reference "R0300")
 					(unit 1)
 				)
 			)
@@ -1566,7 +1566,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d94aa56c-7f66-49be-9f86-db7ac0f5311a")
-		(property "Reference" "C204"
+		(property "Reference" "C0300"
 			(at 118.11 109.855 0)
 			(effects
 				(font
@@ -1584,7 +1584,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 113.3348 106.68 0)
 			(effects
 				(font
@@ -1620,7 +1620,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/8aa098bc-8147-495f-9e0e-6764d1cf376d"
-					(reference "C204")
+					(reference "C0300")
 					(unit 1)
 				)
 			)
@@ -1635,8 +1635,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e218d16d-b37d-4090-adab-fa645aac5924")
-		(property "Reference" "R208"
-			(at 143.764 111.76 90)
+		(property "Reference" "R0303"
+			(at 142.748 111.76 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1687,7 +1687,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/8aa098bc-8147-495f-9e0e-6764d1cf376d"
-					(reference "R208")
+					(reference "R0303")
 					(unit 1)
 				)
 			)
@@ -1701,10 +1701,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f44e4f4b-de51-481e-b4ee-1ae1a24a64f0")
-		(property "Reference" "MODULE2"
-			(at 182.245 87.63 0)
+		(property "Reference" "SD"
+			(at 181.61 89.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1717,6 +1716,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_Card:microSD_HC_Hirose_DM3AT-SF-PEJM5"
@@ -1781,7 +1781,7 @@
 			)
 			(project "stm32f4_ILI_RS_SD"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/8aa098bc-8147-495f-9e0e-6764d1cf376d"
-					(reference "MODULE2")
+					(reference "SD")
 					(unit 1)
 				)
 			)

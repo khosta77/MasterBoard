@@ -3013,12 +3013,6 @@
 		(uuid "0ebf17da-4b6f-42ee-a632-eabc149f7469")
 	)
 	(junction
-		(at 54.61 36.83)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "15235072-e7eb-40eb-9985-73b1a6d4cfac")
-	)
-	(junction
 		(at 200.66 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3303,16 +3297,6 @@
 			(type default)
 		)
 		(uuid "1a80e282-7df9-4e49-879b-86f8f9cb02a4")
-	)
-	(wire
-		(pts
-			(xy 64.77 49.53) (xy 76.2 49.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1adc2396-d3d2-4ac5-85a7-84030481c45b")
 	)
 	(wire
 		(pts
@@ -3906,16 +3890,6 @@
 	)
 	(wire
 		(pts
-			(xy 50.8 36.83) (xy 54.61 36.83)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "86e97cf2-67e6-416e-a99d-659896e5057d")
-	)
-	(wire
-		(pts
 			(xy 91.44 24.13) (xy 91.44 22.86)
 		)
 		(stroke
@@ -4383,6 +4357,16 @@
 			(type default)
 		)
 		(uuid "d22ac908-a4b1-4965-acfb-50918c7f7290")
+	)
+	(wire
+		(pts
+			(xy 64.77 49.53) (xy 76.2 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2395f41-97da-4add-a70b-c80ef809df3e")
 	)
 	(wire
 		(pts
@@ -5415,12 +5399,12 @@
 		(uuid "c6828367-a317-4b0c-ab9e-e8b3662de709")
 	)
 	(label "OSC_IN"
-		(at 71.12 46.99 180)
+		(at 64.77 46.99 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "cd6c5c11-23c8-4a8d-af40-3b406bcef8e4")
 	)
@@ -5545,12 +5529,12 @@
 		(uuid "e8c05a88-d8c1-4429-8cdf-ddb2c10a2613")
 	)
 	(label "OSC_OUT"
-		(at 72.39 49.53 180)
+		(at 64.77 49.53 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "f181ec44-f593-4554-89ee-eb8515f25b48")
 	)
@@ -6165,20 +6149,6 @@
 			(justify left)
 		)
 		(uuid "83002260-6099-4b00-8459-6cc907e59285")
-	)
-	(hierarchical_label "BOOT0"
-		(shape bidirectional)
-		(at 50.8 36.83 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-				(italic yes)
-			)
-			(justify right)
-		)
-		(uuid "8453249c-5270-4fad-b503-af006d9660be")
 	)
 	(hierarchical_label "PC3"
 		(shape bidirectional)

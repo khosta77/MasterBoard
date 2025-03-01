@@ -1373,7 +1373,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 81.28) (xy 124.46 81.28)
+			(xy 113.03 81.28) (xy 127 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1453,7 +1453,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 83.82) (xy 124.46 81.28)
+			(xy 127 83.82) (xy 127 81.28)
 		)
 		(stroke
 			(width 0)
@@ -1463,7 +1463,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 91.44) (xy 124.46 93.98)
+			(xy 127 91.44) (xy 127 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1523,7 +1523,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 93.98) (xy 113.03 93.98)
+			(xy 127 93.98) (xy 113.03 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1603,7 +1603,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09b82497-b53d-48c8-b580-92c4dae613b7")
-		(property "Reference" "R26"
+		(property "Reference" "R0502"
 			(at 189.23 109.2199 0)
 			(effects
 				(font
@@ -1657,7 +1657,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/e30e4f09-c240-4d68-a862-af3d4cc81fa3"
-					(reference "R26")
+					(reference "R0502")
 					(unit 1)
 				)
 			)
@@ -1739,7 +1739,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "27c03a19-a6dc-42d2-a843-db1d6094e07a")
-		(property "Reference" "Q7"
+		(property "Reference" "Q0500"
 			(at 210.82 102.8699 0)
 			(effects
 				(font
@@ -1796,7 +1796,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/e30e4f09-c240-4d68-a862-af3d4cc81fa3"
-					(reference "Q7")
+					(reference "Q0500")
 					(unit 1)
 				)
 			)
@@ -2081,7 +2081,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78d40954-e1db-4ab8-a0a9-bd095c57f06d")
-		(property "Reference" "R29"
+		(property "Reference" "R0501"
 			(at 194.31 99.06 90)
 			(effects
 				(font
@@ -2133,7 +2133,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/e30e4f09-c240-4d68-a862-af3d4cc81fa3"
-					(reference "R29")
+					(reference "R0501")
 					(unit 1)
 				)
 			)
@@ -2216,7 +2216,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b67a4f86-b00a-48af-8897-2d701e1c5328")
-		(property "Reference" "R28"
+		(property "Reference" "R0504"
 			(at 115.57 97.7899 0)
 			(effects
 				(font
@@ -2270,7 +2270,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/e30e4f09-c240-4d68-a862-af3d4cc81fa3"
-					(reference "R28")
+					(reference "R0504")
 					(unit 1)
 				)
 			)
@@ -2286,7 +2286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ba848a74-bcac-42d2-9444-b23bc23049c5")
-		(property "Reference" "D7"
+		(property "Reference" "LD0500"
 			(at 210.82 85.4074 90)
 			(effects
 				(font
@@ -2340,7 +2340,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/e30e4f09-c240-4d68-a862-af3d4cc81fa3"
-					(reference "D7")
+					(reference "LD0500")
 					(unit 1)
 				)
 			)
@@ -2356,7 +2356,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "be0a513f-cb38-4896-8310-0c5b5e17e57d")
-		(property "Reference" "R27"
+		(property "Reference" "R0503"
 			(at 116.84 86.3599 0)
 			(effects
 				(font
@@ -2410,7 +2410,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/e30e4f09-c240-4d68-a862-af3d4cc81fa3"
-					(reference "R27")
+					(reference "R0503")
 					(unit 1)
 				)
 			)
@@ -2418,7 +2418,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 124.46 87.63 0)
+		(at 127 87.63 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2426,8 +2426,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c57b6799-7e57-4384-91b8-80106622fc2e")
-		(property "Reference" "C28"
-			(at 128.27 86.3599 0)
+		(property "Reference" "C0500"
+			(at 130.81 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2436,7 +2436,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 128.27 88.8999 0)
+			(at 130.81 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2445,7 +2445,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 125.4252 91.44 0)
+			(at 127.9652 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2454,7 +2454,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 124.46 87.63 0)
+			(at 127 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2463,7 +2463,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
-			(at 124.46 87.63 0)
+			(at 127 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2480,7 +2480,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/e30e4f09-c240-4d68-a862-af3d4cc81fa3"
-					(reference "C28")
+					(reference "C0500")
 					(unit 1)
 				)
 			)
@@ -2496,7 +2496,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0ff2357-6f6c-470f-93c3-79f24d3200a5")
-		(property "Reference" "R30"
+		(property "Reference" "R0500"
 			(at 209.55 92.7099 0)
 			(effects
 				(font
@@ -2550,7 +2550,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/e30e4f09-c240-4d68-a862-af3d4cc81fa3"
-					(reference "R30")
+					(reference "R0500")
 					(unit 1)
 				)
 			)
