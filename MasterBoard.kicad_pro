@@ -610,6 +610,14 @@
       "version": 1
     },
     "net_format_name": "",
+    "ngspice": {
+      "fix_include_paths": true,
+      "meta": {
+        "version": 0
+      },
+      "model_mode": 4,
+      "workbook_filename": ""
+    },
     "page_layout_descr_file": "kicad-embed://gost_portrait.kicad_wks",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -632,20 +640,12 @@
       "power"
     ],
     [
-      "8bb2ba2e-b6e4-4843-9b9f-90d06bc3e717",
-      "ST-LINK-V2"
-    ],
-    [
       "59718995-9a4b-4440-9220-f1fb60c46541",
       "STM32F405RG"
     ],
     [
       "5af52d5a-2524-4f0f-872e-80f344338bdc",
       "USART_module"
-    ],
-    [
-      "8aa098bc-8147-495f-9e0e-6764d1cf376d",
-      "SD-card"
     ],
     [
       "c42b4888-b871-46c0-9d59-6fc9dc24c285",
@@ -658,10 +658,6 @@
     [
       "79d602db-a6dd-43c7-a573-120ff5d57928",
       "W5500_module"
-    ],
-    [
-      "e2c43f59-ec31-4543-bc25-8546549cf402",
-      "ENC28J60_module"
     ],
     [
       "71095070-8281-4de7-807c-d3e17339dc65",
@@ -706,10 +702,6 @@
     [
       "15b1724a-2f36-4aa6-bc5e-02dcfe1e0071",
       "EndStop5"
-    ],
-    [
-      "0020857d-77ad-4b1f-afb2-65480b85c325",
-      "EndStop6"
     ]
   ],
   "text_variables": {}
