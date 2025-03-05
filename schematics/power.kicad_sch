@@ -3605,7 +3605,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0dea25bd-3eb3-4bd2-b2d5-86eb24fa74df")
-		(property "Reference" "U9"
+		(property "Reference" "U7"
 			(at 86.36 36.83 0)
 			(effects
 				(font
@@ -3668,7 +3668,7 @@
 		(instances
 			(project ""
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/7330fb6d-3de7-4c19-a7a3-dd8fb4865426"
-					(reference "U9")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -4829,7 +4829,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47c4cb8c-3296-497c-bad2-b0ea52ba1b52")
-		(property "Reference" "U11"
+		(property "Reference" "U9"
 			(at 92.71 129.54 0)
 			(effects
 				(font
@@ -4892,7 +4892,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/7330fb6d-3de7-4c19-a7a3-dd8fb4865426"
-					(reference "U11")
+					(reference "U9")
 					(unit 1)
 				)
 			)
@@ -4975,7 +4975,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d1b4181-7efc-44a3-8f96-be54818b48b5")
-		(property "Reference" "U12"
+		(property "Reference" "U10"
 			(at 205.74 34.29 0)
 			(effects
 				(font
@@ -5036,7 +5036,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/7330fb6d-3de7-4c19-a7a3-dd8fb4865426"
-					(reference "U12")
+					(reference "U10")
 					(unit 1)
 				)
 			)
@@ -5406,7 +5406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_Phoenix_MC:PhoenixContact_MC_1,5_2-G-3.81_1x02_P3.81mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:KLS2"
 			(at 212.09 91.44 0)
 			(effects
 				(font
@@ -7286,7 +7286,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b163e82f-17c7-4469-bd81-d8fbead39b56")
-		(property "Reference" "U10"
+		(property "Reference" "U8"
 			(at 86.36 69.85 0)
 			(effects
 				(font
@@ -7349,7 +7349,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/7330fb6d-3de7-4c19-a7a3-dd8fb4865426"
-					(reference "U10")
+					(reference "U8")
 					(unit 1)
 				)
 			)

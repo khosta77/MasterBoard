@@ -1772,7 +1772,7 @@
 		(on_board no)
 		(dnp yes)
 		(uuid "452f5379-29d0-4b9f-9b09-ef29d013ba66")
-		(property "Reference" "U4"
+		(property "Reference" "U3"
 			(at 144.78 89.154 0)
 			(effects
 				(font
@@ -1838,7 +1838,7 @@
 		(instances
 			(project "MasterBoard"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/c42b4888-b871-46c0-9d59-6fc9dc24c285"
-					(reference "U4")
+					(reference "U3")
 					(unit 1)
 				)
 			)

@@ -2697,7 +2697,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1621dfa3-6952-427d-a05b-7969afe8f7c2")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 164.5159 68.58 0)
 			(effects
 				(font
@@ -2829,7 +2829,7 @@
 			)
 			(project "stm32f4_ILI_RS_SD"
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/5af52d5a-2524-4f0f-872e-80f344338bdc"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)

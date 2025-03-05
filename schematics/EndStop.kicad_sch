@@ -902,10 +902,6 @@
 		)
 		(instances
 			(project "MasterBoard"
-				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/0020857d-77ad-4b1f-afb2-65480b85c325"
-					(reference "#PWR0178")
-					(unit 1)
-				)
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/15b1724a-2f36-4aa6-bc5e-02dcfe1e0071"
 					(reference "#PWR0176")
 					(unit 1)
@@ -999,10 +995,6 @@
 		)
 		(instances
 			(project "MasterBoard"
-				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/0020857d-77ad-4b1f-afb2-65480b85c325"
-					(reference "ES06")
-					(unit 1)
-				)
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/15b1724a-2f36-4aa6-bc5e-02dcfe1e0071"
 					(reference "ES05")
 					(unit 1)
@@ -1093,10 +1085,6 @@
 		)
 		(instances
 			(project "MasterBoard"
-				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/0020857d-77ad-4b1f-afb2-65480b85c325"
-					(reference "C0906")
-					(unit 1)
-				)
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/15b1724a-2f36-4aa6-bc5e-02dcfe1e0071"
 					(reference "C0905")
 					(unit 1)
@@ -1184,10 +1172,6 @@
 		)
 		(instances
 			(project "MasterBoard"
-				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/0020857d-77ad-4b1f-afb2-65480b85c325"
-					(reference "R0906")
-					(unit 1)
-				)
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/15b1724a-2f36-4aa6-bc5e-02dcfe1e0071"
 					(reference "R0905")
 					(unit 1)
@@ -1275,10 +1259,6 @@
 		)
 		(instances
 			(project "MasterBoard"
-				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/0020857d-77ad-4b1f-afb2-65480b85c325"
-					(reference "#PWR0179")
-					(unit 1)
-				)
 				(path "/97e8f341-b455-4614-ab7f-cc310164e7aa/15b1724a-2f36-4aa6-bc5e-02dcfe1e0071"
 					(reference "#PWR0177")
 					(unit 1)
