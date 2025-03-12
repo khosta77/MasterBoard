@@ -5406,7 +5406,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:KLS2"
+		(property "Footprint" "Library:KLS2"
 			(at 212.09 91.44 0)
 			(effects
 				(font

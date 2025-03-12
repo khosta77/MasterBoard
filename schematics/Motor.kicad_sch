@@ -2244,7 +2244,7 @@
 		)
 		(uuid "0216130b-8f7d-485b-a672-461c4c272c1d")
 	)
-	(label "UART"
+	(label "M_UART"
 		(at 123.19 67.31 0)
 		(effects
 			(font
@@ -2253,16 +2253,6 @@
 			(justify left bottom)
 		)
 		(uuid "22374755-c325-4d99-8aab-8a566f2cdf06")
-	)
-	(label "UART"
-		(at 165.1 140.97 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "22443d38-b6da-4678-9061-f674c26b7f95")
 	)
 	(label "MS3"
 		(at 123.19 64.77 0)
@@ -2283,6 +2273,16 @@
 			(justify left bottom)
 		)
 		(uuid "509709ed-e5da-4f8d-a77d-0422cf9db7a9")
+	)
+	(label "M_UART"
+		(at 165.1 140.97 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "98112199-1933-4928-9414-c29967190dc0")
 	)
 	(label "MS2"
 		(at 161.29 104.14 180)
