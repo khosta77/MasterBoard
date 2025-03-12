@@ -1,5 +1,6 @@
 *-backups
 *.bak
+*-bak
 *.tmp
 *.cache
 *.kicad_dbl
