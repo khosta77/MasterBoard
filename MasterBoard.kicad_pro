@@ -671,42 +671,6 @@
     [
       "dcb52573-2c98-48c8-b786-d132966e5cf0",
       "Motor0"
-    ],
-    [
-      "b4807ac2-fff4-43a2-9880-5a7f3b1d6bae",
-      "Motor1"
-    ],
-    [
-      "864a8dc6-df84-456c-9a9a-3ea7ad525fa0",
-      "Motor2"
-    ],
-    [
-      "40f863e3-9a2e-4d98-b8ee-4487a1b32b39",
-      "Motor3"
-    ],
-    [
-      "c32cc6e0-b940-4ade-a351-c5b9da254a31",
-      "EndStop0"
-    ],
-    [
-      "a1fd2dac-a455-4c85-b79b-43aa768602d3",
-      "EndStop1"
-    ],
-    [
-      "4e2e899a-7a0c-4669-897b-8dedbdd1b4ee",
-      "EndStop2"
-    ],
-    [
-      "94ff1a88-0c2a-40cb-bd19-cf6a210b21bd",
-      "EndStop3"
-    ],
-    [
-      "2cb344d1-bc6a-4ba0-9e7f-cb68bc3ab9dc",
-      "EndStop4"
-    ],
-    [
-      "15b1724a-2f36-4aa6-bc5e-02dcfe1e0071",
-      "EndStop5"
     ]
   ],
   "text_variables": {}
