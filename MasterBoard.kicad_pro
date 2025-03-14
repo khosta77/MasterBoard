@@ -645,32 +645,56 @@
       "power"
     ],
     [
-      "59718995-9a4b-4440-9220-f1fb60c46541",
-      "STM32F405RG"
+      "8db3f3ed-0435-4018-8cfb-2b18cdc95e24",
+      "STM32F407VG"
     ],
     [
       "5af52d5a-2524-4f0f-872e-80f344338bdc",
       "USART_module"
     ],
     [
-      "c42b4888-b871-46c0-9d59-6fc9dc24c285",
-      "TMP102"
-    ],
-    [
-      "e30e4f09-c240-4d68-a862-af3d4cc81fa3",
-      "Table"
-    ],
-    [
-      "79d602db-a6dd-43c7-a573-120ff5d57928",
-      "W5500_module"
-    ],
-    [
-      "71095070-8281-4de7-807c-d3e17339dc65",
-      "W25Q32_module"
+      "bae28e16-22f2-4ff5-b91c-aa95610674f7",
+      "periphery"
     ],
     [
       "dcb52573-2c98-48c8-b786-d132966e5cf0",
       "Motor0"
+    ],
+    [
+      "8f98049f-3caf-41e3-aeaa-d3cf52c9521c",
+      "Motor1"
+    ],
+    [
+      "a2acda65-3a54-4282-b709-8225f694c626",
+      "Motor2"
+    ],
+    [
+      "2513315f-4d4d-4565-9cf3-a9ee7bf95c09",
+      "Motor3"
+    ],
+    [
+      "8c82bac8-a217-4133-b22d-9fb484ce485d",
+      "Motor4"
+    ],
+    [
+      "91f8907b-cffd-4010-bf98-f4ce91c2e71d",
+      "Motor5"
+    ],
+    [
+      "d6ab5152-e809-4555-83fb-cc372c429428",
+      "Motor6"
+    ],
+    [
+      "4b3d5a43-003c-4d3d-abeb-8c95a81ed4d6",
+      "Motor7"
+    ],
+    [
+      "28246238-2ae9-4e23-9965-86f452c7644f",
+      "Motor8"
+    ],
+    [
+      "129914c5-6cf9-43d9-aff8-e9652ad99238",
+      "Motor9"
     ]
   ],
   "text_variables": {}
