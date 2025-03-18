@@ -5,7 +5,7 @@
 	(uuid "467425a6-ddd7-42ec-9406-1283a6577829")
 	(paper "A4")
 	(title_block
-		(company "Филимонов и К")
+		(title "OctopusNode")
 		(comment 1 "Питание")
 		(comment 2 "Филимонов С.В.")
 		(comment 3 "Семеренко Д.А.")

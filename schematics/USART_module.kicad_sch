@@ -5,8 +5,8 @@
 	(uuid "9f362a76-2cbc-4994-896b-5ac07228c9da")
 	(paper "A4")
 	(title_block
+		(title "OctopusNode")
 		(date "2025-02-23")
-		(company "Филимонов и К")
 		(comment 1 "RS232")
 		(comment 2 "Филимонов С.В.")
 		(comment 3 "Семеренко Д.А.")
