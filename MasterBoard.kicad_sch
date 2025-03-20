@@ -3866,26 +3866,6 @@
 		)
 		(uuid "079f394a-c34e-4adb-8c09-d6c4024a15ee")
 	)
-	(label "ES_A_4"
-		(at 64.77 63.5 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0c0a4ff3-10cd-4764-9947-0fec0edfac3f")
-	)
-	(label "ES_B_8"
-		(at 165.1 129.54 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "0c993f69-afc1-40e3-9c38-5adad1dc61c1")
-	)
 	(label "ES_B_2"
 		(at 168.91 53.34 0)
 		(effects
@@ -3946,36 +3926,6 @@
 		)
 		(uuid "127f867d-069a-4160-a5e3-5b869b779546")
 	)
-	(label "ES_A_1"
-		(at 64.77 55.88 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "13715f5f-a0ef-4bbf-a1d0-ac86418a4861")
-	)
-	(label "ES_B_0"
-		(at 64.77 113.03 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "152c8091-d975-49c5-a785-d57182b3938f")
-	)
-	(label "ES_A_2"
-		(at 64.77 58.42 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "15dc627d-732f-4d39-b0f3-8b8dd1e2b9d7")
-	)
 	(label "TIM8_4_TACHO"
 		(at 165.1 124.46 180)
 		(effects
@@ -3996,16 +3946,6 @@
 		)
 		(uuid "17b83f48-a727-4de1-9e4f-cb6ea5bb61b3")
 	)
-	(label "PIN_DIR_1"
-		(at 64.77 30.48 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "197951ce-4668-492b-a25b-1952d4ed2ef5")
-	)
 	(label "ES_A_2"
 		(at 168.91 50.8 0)
 		(effects
@@ -4017,7 +3957,7 @@
 		(uuid "21ca0818-9285-4cd5-98fa-db1a44da07e7")
 	)
 	(label "TIM3_STEP_2"
-		(at 208.28 30.48 0)
+		(at 208.28 45.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4025,16 +3965,6 @@
 			(justify left bottom)
 		)
 		(uuid "22256645-408f-4264-b418-f2cc0ac62744")
-	)
-	(label "ES_A_9"
-		(at 64.77 110.49 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "226244cc-8548-4949-b96d-703928672d03")
 	)
 	(label "PIN_DIR_5"
 		(at 208.28 33.02 0)
@@ -4075,16 +4005,6 @@
 			(justify left bottom)
 		)
 		(uuid "2c6b064b-18af-4b18-9a6a-5d362ea7517c")
-	)
-	(label "PIN_DIR_9"
-		(at 64.77 50.8 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2fcda5fa-97d9-49a9-ae2d-35a78878368b")
 	)
 	(label "TIM8_3_FAN_PWM"
 		(at 58.42 37.084 180)
@@ -4186,18 +4106,8 @@
 		)
 		(uuid "491a94bd-2058-4c11-a3e4-2e239fce230d")
 	)
-	(label "ES_A_3"
-		(at 64.77 60.96 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4c4aa744-1b18-4aeb-a330-5c1d57c1de81")
-	)
 	(label "TIM4_PWM_3"
-		(at 165.1 78.74 180)
+		(at 165.1 76.2 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4296,16 +4206,6 @@
 		)
 		(uuid "5acc4bf6-a799-4931-bf42-46574fa3c43d")
 	)
-	(label "PIN_DIR_7"
-		(at 64.77 45.72 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "5cea7d92-01a6-412d-bc9a-6cadfb749b86")
-	)
 	(label "SPI2_NSS"
 		(at 266.7 113.03 180)
 		(effects
@@ -4336,16 +4236,6 @@
 		)
 		(uuid "6324b638-6075-4d41-bb29-8f26dad71224")
 	)
-	(label "ES_A_5"
-		(at 64.77 66.04 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "63e74d0b-255a-4365-809c-7cc7c97f023b")
-	)
 	(label "TIM2{slash}5_STEP_1"
 		(at 168.91 15.24 0)
 		(effects
@@ -4366,18 +4256,8 @@
 		)
 		(uuid "67aa57db-245b-4d0d-a443-54f4c25fdb03")
 	)
-	(label "PIN_DIR_5"
-		(at 64.77 40.64 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "68010474-9951-4b29-a9f8-02b3f04596c6")
-	)
 	(label "TIM3_STEP_1"
-		(at 208.28 15.24 0)
+		(at 208.28 60.96 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4406,16 +4286,6 @@
 		)
 		(uuid "6cd9cd15-9295-47b6-8f0e-a8714c118e14")
 	)
-	(label "PIN_DIR_6"
-		(at 64.77 43.18 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6d0d2937-b4d0-47b2-8c65-5437ae8ae865")
-	)
 	(label "HX711_DAT_4"
 		(at 64.77 100.33 0)
 		(effects
@@ -4426,26 +4296,6 @@
 		)
 		(uuid "6d6d5bf7-0374-4f37-b29f-6875fd90de0e")
 	)
-	(label "ES_A_8"
-		(at 64.77 107.95 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6ecf71be-c748-4e60-b977-48e90398ff87")
-	)
-	(label "PIN_DIR_0"
-		(at 64.77 27.94 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "6f48b3bf-88a3-4d0a-9886-77be04734091")
-	)
 	(label "TIM4_STEP_2"
 		(at 247.65 30.48 0)
 		(effects
@@ -4455,26 +4305,6 @@
 			(justify left bottom)
 		)
 		(uuid "708ee250-18d4-4705-a103-326e484955a4")
-	)
-	(label "ES_B_5"
-		(at 165.1 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "72703bc0-d166-4a10-8556-8fd01b77c9c9")
-	)
-	(label "ES_A_0"
-		(at 64.77 53.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "747351c9-606e-4ae6-bc1d-cb6fb0221eaa")
 	)
 	(label "ES_B_9"
 		(at 247.65 38.1 0)
@@ -4577,7 +4407,7 @@
 		(uuid "8b9e32f7-8d4b-41ac-8135-5783866e6734")
 	)
 	(label "TIM4_STEP_1"
-		(at 165.1 73.66 180)
+		(at 165.1 81.28 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4597,7 +4427,7 @@
 		(uuid "93794f66-98ef-41d4-a04c-87988e17fff5")
 	)
 	(label "TIM4_PWM_4"
-		(at 165.1 81.28 180)
+		(at 165.1 73.66 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4637,7 +4467,7 @@
 		(uuid "9c60d018-c922-47b3-9221-6940b596489f")
 	)
 	(label "TIM4_STEP_2"
-		(at 165.1 76.2 180)
+		(at 165.1 78.74 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4675,16 +4505,6 @@
 			(justify right bottom)
 		)
 		(uuid "a034100e-9047-48b6-850e-151ca03da175")
-	)
-	(label "ES_B_6"
-		(at 165.1 116.84 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a2ae07f9-e133-4b22-978a-ec5df4360be9")
 	)
 	(label "HX711_DAT_2"
 		(at 58.42 95.25 180)
@@ -4736,16 +4556,6 @@
 		)
 		(uuid "ab522420-06f7-4832-98ce-cd8237a88736")
 	)
-	(label "ES_A_6"
-		(at 64.77 102.87 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "ac05263f-635b-4ac1-bab2-1c4ef23dc79f")
-	)
 	(label "RP_RST"
 		(at 64.77 17.78 0)
 		(effects
@@ -4765,16 +4575,6 @@
 			(justify right bottom)
 		)
 		(uuid "ae874de1-ad51-43cb-98a3-c480a9aa38bd")
-	)
-	(label "ES_B_1"
-		(at 165.1 101.6 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "b09283bb-81eb-4d0d-a47f-9270f5fbbcd8")
 	)
 	(label "SOME_PIN_2"
 		(at 165.1 139.7 180)
@@ -4816,16 +4616,6 @@
 		)
 		(uuid "b755835f-7245-4229-8e5a-7ab8f0e1f8ae")
 	)
-	(label "ES_B_9"
-		(at 165.1 132.08 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "bae93847-b59a-444d-96f7-33b8f5934605")
-	)
 	(label "TIM8_2_TABLE_ON"
 		(at 165.1 119.38 180)
 		(effects
@@ -4845,16 +4635,6 @@
 			(justify left bottom)
 		)
 		(uuid "bb994720-9966-4376-b9ad-73c3713090e8")
-	)
-	(label "ES_A_7"
-		(at 64.77 105.41 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bc00a29d-1871-4cf3-9bc1-079c86ddd642")
 	)
 	(label "RS232_USART_RX"
 		(at 58.42 19.05 180)
@@ -4885,16 +4665,6 @@
 			(justify right bottom)
 		)
 		(uuid "c257fe08-f7bb-4f48-b7e1-645cc9de6f50")
-	)
-	(label "ES_B_3"
-		(at 165.1 106.68 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "c50ff9a5-efa4-4f1a-8770-cbf338a2c385")
 	)
 	(label "ES_A_9"
 		(at 247.65 35.56 0)
@@ -4957,7 +4727,7 @@
 		(uuid "c90cad2d-2d8d-43be-a1ac-26a392d978cd")
 	)
 	(label "TIM3_STEP_3"
-		(at 208.28 45.72 0)
+		(at 208.28 30.48 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5006,16 +4776,6 @@
 		)
 		(uuid "d266dcfc-4411-40d9-8f73-f980845a8517")
 	)
-	(label "ES_B_4"
-		(at 165.1 109.22 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "d2ad82f8-3cc3-4b6c-b9d5-7a6fa47c7a3a")
-	)
 	(label "SOME_PIN_0"
 		(at 187.96 123.19 0)
 		(effects
@@ -5036,16 +4796,6 @@
 		)
 		(uuid "d8bf690b-b72e-48cf-825d-7b057317f9f3")
 	)
-	(label "PIN_DIR_4"
-		(at 64.77 38.1 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "de3ad989-9531-407e-a2bc-2d6ca65bd60d")
-	)
 	(label "PIN_DIR_1"
 		(at 168.91 33.02 0)
 		(effects
@@ -5065,26 +4815,6 @@
 			(justify right bottom)
 		)
 		(uuid "e4b2b70f-cbfc-43d9-b173-9953749c967b")
-	)
-	(label "ES_B_7"
-		(at 165.1 127 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "e50b0890-a1ee-42c5-b28c-4d09f5eeba7e")
-	)
-	(label "PIN_DIR_2"
-		(at 64.77 33.02 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e7021234-ab95-4a41-8fbd-231f7d3877a9")
 	)
 	(label "ADC12_IN4"
 		(at 165.1 25.4 180)
@@ -5136,16 +4866,6 @@
 		)
 		(uuid "ec324f8c-5478-4bdf-bc9a-8d29eb7dcb2e")
 	)
-	(label "ES_B_2"
-		(at 165.1 104.14 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "f1d9b0e6-171c-4810-bc8a-0eebf6b5fcbc")
-	)
 	(label "SOME_PIN_1"
 		(at 165.1 137.16 180)
 		(effects
@@ -5156,7 +4876,7 @@
 		)
 		(uuid "f2492ebf-d645-4815-9ebb-ed1ddc744a46")
 	)
-	(label "ES_B_9"
+	(label "ES_B_8"
 		(at 247.65 22.86 0)
 		(effects
 			(font
@@ -5217,7 +4937,7 @@
 		(uuid "f943741d-f536-445f-8bd5-72114c8fd8a8")
 	)
 	(label "TIM3_STEP_4"
-		(at 208.28 60.96 0)
+		(at 208.28 15.24 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5225,26 +4945,6 @@
 			(justify left bottom)
 		)
 		(uuid "f9ecb783-0d69-4dcb-8bc6-e9eedc004639")
-	)
-	(label "PIN_DIR_8"
-		(at 64.77 48.26 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fa4ce2b4-daff-4944-8faa-92e040fe146b")
-	)
-	(label "PIN_DIR_3"
-		(at 64.77 35.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fa6c943d-66cc-49f9-8ecc-5058d7c7376e")
 	)
 	(label "PIN_DIR_4"
 		(at 208.28 17.78 0)
