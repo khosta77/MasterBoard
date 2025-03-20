@@ -192,6 +192,7 @@
         0.4,
         0.45,
         0.6,
+        1.1,
         1.2
       ],
       "tuning_pattern_settings": {
@@ -224,6 +225,10 @@
         {
           "diameter": 0.0,
           "drill": 0.0
+        },
+        {
+          "diameter": 0.4,
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false
@@ -645,68 +650,56 @@
       "power"
     ],
     [
-      "59718995-9a4b-4440-9220-f1fb60c46541",
-      "STM32F405RG"
+      "8db3f3ed-0435-4018-8cfb-2b18cdc95e24",
+      "STM32F407VG"
     ],
     [
       "5af52d5a-2524-4f0f-872e-80f344338bdc",
       "USART_module"
     ],
     [
-      "c42b4888-b871-46c0-9d59-6fc9dc24c285",
-      "TMP102"
-    ],
-    [
-      "e30e4f09-c240-4d68-a862-af3d4cc81fa3",
-      "Table"
-    ],
-    [
-      "79d602db-a6dd-43c7-a573-120ff5d57928",
-      "W5500_module"
-    ],
-    [
-      "71095070-8281-4de7-807c-d3e17339dc65",
-      "W25Q32_module"
+      "bae28e16-22f2-4ff5-b91c-aa95610674f7",
+      "periphery"
     ],
     [
       "dcb52573-2c98-48c8-b786-d132966e5cf0",
       "Motor0"
     ],
     [
-      "b4807ac2-fff4-43a2-9880-5a7f3b1d6bae",
+      "8f98049f-3caf-41e3-aeaa-d3cf52c9521c",
       "Motor1"
     ],
     [
-      "864a8dc6-df84-456c-9a9a-3ea7ad525fa0",
+      "a2acda65-3a54-4282-b709-8225f694c626",
       "Motor2"
     ],
     [
-      "40f863e3-9a2e-4d98-b8ee-4487a1b32b39",
+      "2513315f-4d4d-4565-9cf3-a9ee7bf95c09",
       "Motor3"
     ],
     [
-      "c32cc6e0-b940-4ade-a351-c5b9da254a31",
-      "EndStop0"
+      "8c82bac8-a217-4133-b22d-9fb484ce485d",
+      "Motor4"
     ],
     [
-      "a1fd2dac-a455-4c85-b79b-43aa768602d3",
-      "EndStop1"
+      "91f8907b-cffd-4010-bf98-f4ce91c2e71d",
+      "Motor5"
     ],
     [
-      "4e2e899a-7a0c-4669-897b-8dedbdd1b4ee",
-      "EndStop2"
+      "d6ab5152-e809-4555-83fb-cc372c429428",
+      "Motor6"
     ],
     [
-      "94ff1a88-0c2a-40cb-bd19-cf6a210b21bd",
-      "EndStop3"
+      "4b3d5a43-003c-4d3d-abeb-8c95a81ed4d6",
+      "Motor7"
     ],
     [
-      "2cb344d1-bc6a-4ba0-9e7f-cb68bc3ab9dc",
-      "EndStop4"
+      "28246238-2ae9-4e23-9965-86f452c7644f",
+      "Motor8"
     ],
     [
-      "15b1724a-2f36-4aa6-bc5e-02dcfe1e0071",
-      "EndStop5"
+      "129914c5-6cf9-43d9-aff8-e9652ad99238",
+      "Motor9"
     ]
   ],
   "text_variables": {}
