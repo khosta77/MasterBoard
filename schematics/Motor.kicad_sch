@@ -8,7 +8,6 @@
 		(title "OctopusNode")
 		(comment 1 "Мотор")
 		(comment 2 "Филимонов С.В.")
-		(comment 3 "Семеренко Д.А.")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x03_Socket"
@@ -2708,7 +2707,25 @@
 			"MzJmNDk0NDVlIikoZWZmZWN0cyhmb250KHNpemUgMSAxKSh0aGlja25lc3MgMC4xNSkpKSkocHJv"
 			"cGVydHkgIlZhbHVlIiAiMTAwbiIoYXQgMCAxLjY4IDkwKShsYXllciAiRi5GYWIiICkodXVpZCAi"
 			"YmZiYWRmYjYtZjExZi00OTc0LTg1ZjgtZTAyNDA5NDA5ZTNlIikoZWZmZWN0cyhmb250KHNpemUg"
-			"MSAxKSh0aGlja25lc3MgMC4xNQ=="
+			"MSAxKSh0aGlja25lc3MgMC4xNXVfaG9sZSBjaXJjbGUoYXQgMS40IDIuNCApKHNpemUgMC42IDAu"
+			"NikoZHJpbGwgMC4zKShwcm9wZXJ0eSBwYWRfcHJvcF9oZWF0c2luaykobGF5ZXJzICAiKi5DdSIp"
+			"KHJlbW92ZV91bnVzZWRfbGF5ZXJzIG5vKShuZXQgMSAiR05EIikocGluZnVuY3Rpb24gIkdORCIp"
+			"KHBpbnR5cGUgInBvd2VyX2luIikodXVpZCAiZWExNmZlOTQtMTIzMS00ZTFiLTgzYzAtMjhkNmY3"
+			"NTJkMzJkIikpKHBhZCAiMyIgdGhydV9ob2xlIGNpcmNsZShhdCAxLjQgNCApKHNpemUgMC42IDAu"
+			"NikoZHJpbGwgMC4zKShwcm9wZXJ0eSBwYWRfcHJvcF9oZWF0c2luaykobGF5ZXJzICAiKi5DdSIp"
+			"KHJlbW92ZV91bnVzZWRfbGF5ZXJzIG5vKShuZXQgMSAiR05EIikocGluZnVuY3Rpb24gIkdORCIp"
+			"KHBpbnR5cGUgInBvd2VyX2luIikodXVpZCAiYzk1MzBhNDEtZGFmNS00MzdkLTkyNGYtYWYyZDU2"
+			"ZmY4NDNjIikpKHBhZCAiMyIgdGhydV9ob2xlIGNpcmNsZShhdCAzIC00ICkoc2l6ZSAwLjYgMC42"
+			"KShkcmlsbCAwLjMpKHByb3BlcnR5IHBhZF9wcm9wX2hlYXRzaW5rKShsYXllcnMgICIqLkN1Iiko"
+			"cmVtb3ZlX3VudXNlZF9sYXllcnMgbm8pKG5ldCAxICJHTkQiKShwaW5mdW5jdGlvbiAiR05EIiko"
+			"cGludHlwZSAicG93ZXJfaW4iKSh1dWlkICI5ZWNiM2MzNy05ODUzLTQzNTctODBiOS1kMzcyNGQ2"
+			"MWM4ZjYiKSkocGFkICIzIiB0aHJ1X2hvbGUgY2lyY2xlKGF0IDMgLTIuNCApKHNpemUgMC42IDAu"
+			"NikoZHJpbGwgMC4zKShwcm9wZXJ0eSBwYWRfcHJvcF9oZWF0c2luaykobGF5ZXJzICAiKi5DdSIp"
+			"KHJlbW92ZV91bnVzZWRfbGF5ZXJzIG5vKShuZXQgMSAiR05EIikocGluZnVuY3Rpb24gIkdORCIp"
+			"KHBpbnR5cGUgInBvd2VyX2luIikodXVpZCAiZGI5ZGMwOWYtMTJkYS00MGFkLWI5NzItNTg4MGQ0"
+			"ZWJkMDM5IikpKHBhZCAiMyIgdGhydV9ob2xlIGNpcmNsZShhdCAzIC0wLjggKShzaXplIDAuNiAw"
+			"LjYpKGRyaWxsIDAuMykocHJvcGVydHkgcGFkX3Byb3BfaGVhdHNpbmspKGxheWVycyAgIiouQ3Ui"
+			"KShyZW1vdmVfdW51c2VkX2xheQ=="
 		)
 	)
 	(label "DIR"

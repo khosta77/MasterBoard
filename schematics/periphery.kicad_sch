@@ -7,7 +7,6 @@
 	(title_block
 		(title "OctopusNode")
 		(comment 2 "Филимонов С.В.")
-		(comment 3 "Семеренко Д.А.")
 	)
 	(lib_symbols
 		(symbol "Connector_Generic:Conn_01x02"

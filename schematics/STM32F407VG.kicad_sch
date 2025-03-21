@@ -9,7 +9,6 @@
 		(date "2025-02-17")
 		(comment 1 "STM32F407VG")
 		(comment 2 "Филимонов С.В.")
-		(comment 3 "Семеренко Д.А.")
 	)
 	(lib_symbols
 		(symbol "Device:C"
